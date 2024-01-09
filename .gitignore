@@ -1,0 +1,6 @@
+#virutal envirement
+venv2/
+
+#database_url
+*.env
+
